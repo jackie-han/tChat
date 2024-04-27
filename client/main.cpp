@@ -1,7 +1,14 @@
-#include <iostream>
+// #include "mainwindow.h"
+#include "login.h"
 
-int main()
+#include <QApplication>
+
+int main(int argc, char *argv[])
 {
-    std::cout << "client" << std::endl;
-    return 0;
+    QApplication a(argc, argv);
+    // MainWindow w;
+    // w.show();
+    Login l;
+    l.show();
+    return a.exec();
 }

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/icon/erweima.svg</file>
+        <file>resource/icon/guanbi.svg</file>
+        <file>resource/icon/shezhi.svg</file>
+        <file>resource/icon/xialajiantou.svg</file>
+        <file>resource/icon/youjiantou.svg</file>
+        <file>resource/img/login.png</file>
+        <file>resource/img/login.svg</file>
+        <file>resource/icon/contact.svg</file>
+        <file>resource/icon/file.svg</file>
+        <file>resource/icon/find.svg</file>
+        <file>resource/icon/mainmenu.svg</file>
+        <file>resource/icon/message.svg</file>
+        <file>resource/icon/morefunction.svg</file>
+        <file>resource/icon/photoboy.svg</file>
+        <file>resource/icon/photogirl.svg</file>
+    </qresource>
+</RCC>
